@@ -1,7 +1,6 @@
 ## TestCases-Mobile
 Мое написание тест кейсов с результатами, для мобильного приложения.
 
-[Ссылка на Тест кейсы](https://docs.google.com/spreadsheets/d/19a9ztN5yXs1r_864hwbqe3csx-_EZTbcXDeTDOPl_Nc/edit?gid=0#gid=0)
 
 Задача будет состоять в тестировании мобильного приложения Сбербанк Онлайн и тестирования функционала перевода между своими счетами:										
 										
@@ -15,3 +14,5 @@
 4. Протестировать работу диплинка:										
 Android: android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/payments/p2p?type=between_my_account																				
 5.Talk back/Voice over										
+
+[Ссылка на Тест кейсы](https://docs.google.com/spreadsheets/d/19a9ztN5yXs1r_864hwbqe3csx-_EZTbcXDeTDOPl_Nc/edit?gid=0#gid=0)
