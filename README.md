@@ -14,3 +14,6 @@
 4. Протестировать работу диплинка:										
 Android: android-app://ru.sberbankmobile/android-app/ru.sberbankmobile/payments/p2p?type=between_my_account																				
 5.Talk back/Voice over										
+
+
+[Посмотреть Тест Кейс]()
